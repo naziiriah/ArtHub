@@ -1,12 +1,11 @@
 const SignUP = () => {
     return(
         <div className="max-h-screen flex max-w-full">
-            <div className="w-50 h-screen bg-dep-gre text-red-50 rounded-tr-xl rounded-b-xl">
-                <div className="w-full h-full bg-hero-pattern opacity-5">
-                    <div className=" w-11/12 pt-40 container m-auto opacity-100">
-                        <h2 className="text-white uppercase font-extrabold text-8xl text-end">Art Lynk</h2>
+            <div className="w-50 h-screen bg-green-background text-red-50 rounded-tr-xl rounded-b-xl">
+                    <div className=" w-9/12 pt-40 container m-auto opacity-100">
+                        <h2 className="text-white font-extrabold text-8xl ">ArtLynk</h2>
+                        <p className="text-white font-bold text-xl mt-3">Empowering Creatives</p>
                     </div>
-                </div>
             </div>
             <div className="w-50 align-middle h-screen">
                 <div className="h-20"></div>

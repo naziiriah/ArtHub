@@ -22,12 +22,12 @@ const SignIN = () => {
                     </div>
                 </form>
             </div>
-            <div className="w-50 h-screen bg-dep-gre rounded-tl-xl rounded-bl-xl">
-                <div className="w-full h-full bg-hero-pattern opacity-5">
+            
+            <div className="w-50 h-screen bg-green-background rounded-tl-xl rounded-bl-xl">
+                
                     <div className=" w-11/12 pt-40 container m-auto opacity-100">
                         <h2 className="text-white uppercase font-extrabold text-8xl text-end">Welcome <br/>back</h2>
                     </div>
-                </div>
             </div>
         </div>
     )
